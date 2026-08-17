@@ -68,6 +68,6 @@ Puedes consultar la matriz completa con la documentación de endpoints, pruebas 
 ![Apidoc Requirements](02-apidoc-documentation.png)
 *Revisión de documentación técnica para identificación de parámetros, encabezados y reglas de negocio del backend.*
 
-**Persistencia de Peticiones REST API en Postman:**
-![API Request](03-test-matrix.png)
+**JIRA Peticiones REST API en Postman:**
+![JIRA Reportes de BUGS](03-test-matrix.png)
 *Ejecución de matriz de pruebas de API y casos positivos/negativos.*
