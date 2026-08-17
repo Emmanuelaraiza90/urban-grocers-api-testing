@@ -55,3 +55,19 @@ Puedes consultar la matriz completa con la documentación de endpoints, pruebas 
 *QA Automation Engineer | Industrial Engineer*  
 * [LinkedIn](https://linkedin.com/in/emmanuel-araiza-engineer)
 * [GitHub](https://github.com/Emmanuelaraiza90)
+
+---
+
+## 📸 Evidencia Visual & Pruebas Backend
+
+**Ejecución de Peticiones REST API en Postman:**
+![Postman Executions](01-postman-requests.png)
+*Pruebas de endpoints HTTP (GET, POST, PUT, DELETE), validación de respuestas JSON y verificación de códigos de estado.*
+
+**Análisis de Especificaciones Técnicas (Apidoc):**
+![Apidoc Requirements](02-apidoc-documentation.png)
+*Revisión de documentación técnica para identificación de parámetros, encabezados y reglas de negocio del backend.*
+
+**Persistencia de Peticiones REST API en Postman:**
+![API Request](03-test-matrix.png)
+*Ejecución de matriz de pruebas de API y casos positivos/negativos.*
